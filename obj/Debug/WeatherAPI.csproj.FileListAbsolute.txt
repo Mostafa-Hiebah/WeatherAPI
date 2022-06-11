@@ -1,0 +1,15 @@
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\bin\Debug\WeatherAPI.exe.config
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\bin\Debug\WeatherAPI.exe
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\bin\Debug\WeatherAPI.pdb
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\bin\Debug\System.Net.Http.Formatting.xml
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\obj\Debug\WeatherAPI.csprojAssemblyReference.cache
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\obj\Debug\WeatherAPI.FrmWeather.resources
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\obj\Debug\WeatherAPI.Properties.Resources.resources
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\obj\Debug\WeatherAPI.csproj.GenerateResource.cache
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\obj\Debug\WeatherAPI.csproj.CoreCompileInputs.cache
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\obj\Debug\WeatherAPI.csproj.CopyComplete
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\obj\Debug\WeatherAPI.exe
+D:\OneDrive - El Araby Group\Courses\Testing\API\Projects\Weather_C#_Form\WeatherAPI\obj\Debug\WeatherAPI.pdb
