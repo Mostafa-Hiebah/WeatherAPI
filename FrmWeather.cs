@@ -90,6 +90,7 @@ namespace WeatherAPI
             comboBox1.Enabled = true;
             btnPreview.Enabled = true;
             comboBox1.Text = Properties.Settings.Default.FullName;
+
         }
 
 
